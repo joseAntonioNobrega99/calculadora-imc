@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calculadora de IMC</string>
+    <string name="text_peso">Informe Seu Peso em KG</string>
+    <string name="text_altura">Informe Sua Altura em M</string>
+    <string name="textResultado">Resultado do IMC: </string>
+    <string name="textBtnCalcular">Calcular</string>
+    <string name="textDiagnostico">Diagnóstico</string>
+    <string name="textBtnLimpar">Limpar</string>
+</resources>
